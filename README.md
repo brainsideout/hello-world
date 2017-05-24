@@ -1,2 +1,3 @@
 # hello-world
-Hello World
+
+> This repo says hello. To the world.
